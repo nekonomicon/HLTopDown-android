@@ -10,7 +10,7 @@
 		 android:debuggable="false"
 		 android:icon="@drawable/logo_xash_hltopdown">
     <!-- Set your launcher title here -->
-        <activity android:name="in.celest.xash3d.LauncherActivity"
+        <activity android:name="su.xash.xash3d.LauncherActivity"
                   android:label="Top-Down"
 			android:windowSoftInputMode="adjustResize">
             <intent-filter>
